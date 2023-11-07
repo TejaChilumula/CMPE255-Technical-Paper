@@ -1,4 +1,4 @@
-# 📊 Summary: Fraud Detection in Bitcoin Blockchain Network using Machine Learning
+# 📊 Fraud Detection in Bitcoin Blockchain Network using Machine Learning
 
 Blockchain provides a unique and accountable channel for financial forensics by mining its open and immutable transaction data. This paper presents a holistic applied data science approach to fraud detection in the Bitcoin network, utilizing the Elliptic++ dataset, which extends the Elliptic transaction dataset to include over 822𝑘 Bitcoin wallet addresses (nodes), each with 56 features, and 1.27𝑀 temporal interactions.
 
